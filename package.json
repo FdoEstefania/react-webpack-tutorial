@@ -1,0 +1,36 @@
+{
+  "name": "learnreactjswithrealapps",
+  "version": "1.0.0",
+  "description": "React Tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FdoEstefania/react-webpack-tutorial.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Fdo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FdoEstefania/react-webpack-tutorial/issues"
+  },
+  "homepage": "https://github.com/FdoEstefania/react-webpack-tutorial#readme",
+  "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-react": "^6.23.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^2.3.2",
+    "webpack-dev-server": "^2.4.2"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "style-loader": "^0.21.0"
+  }
+}
